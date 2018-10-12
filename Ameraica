@@ -5,7 +5,7 @@
 127.0.0.1 localhost #IPv4 localhost	
 ::1 localhost #IPv6 localhost	
 #	
-# BAD SITES START HERE	
+# Uncommon Domain Extensions START HERE	
 #	
 127.0.0.1	abogado
 127.0.0.1	ac
