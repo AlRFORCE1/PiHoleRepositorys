@@ -8,7 +8,7 @@
 # Uncommon Domain Extensions START HERE	
 #	
 127.0.0.1	abogado
-127.0.0.1	.ac
+127.0.0.1	(^|\.)ac$
 127.0.0.1	academy
 127.0.0.1	accountant
 127.0.0.1	accountants
