@@ -275,7 +275,6 @@
 (^|\.)COFFEE$
 (^|\.)COLLEGE$
 (^|\.)COLOGNE$
-(^|\.)COM$
 (^|\.)COMCAST$
 (^|\.)COMMBANK$
 (^|\.)COMMUNITY$
@@ -293,6 +292,7 @@
 (^|\.)COOL$
 (^|\.)COOP$
 (^|\.)CORSICA$
+(^|\.)CORN$
 (^|\.)COUNTRY$
 (^|\.)COUPON$
 (^|\.)COUPONS$
@@ -402,7 +402,6 @@
 (^|\.)ESURANCE$
 (^|\.)ET$
 (^|\.)ETISALAT$
-(^|\.)EU$
 (^|\.)EUROVISION$
 (^|\.)EUS$
 (^|\.)EVENTS$
@@ -526,7 +525,6 @@
 (^|\.)GOOGLE$
 (^|\.)GOP$
 (^|\.)GOT$
-(^|\.)GOV$
 (^|\.)GP$
 (^|\.)GQ$
 (^|\.)GR$
@@ -615,7 +613,6 @@
 (^|\.)INC$
 (^|\.)INDUSTRIES$
 (^|\.)INFINITI$
-(^|\.)INFO$
 (^|\.)ING$
 (^|\.)INK$
 (^|\.)INSTITUTE$
@@ -862,7 +859,6 @@
 (^|\.)NC$
 (^|\.)NE$
 (^|\.)NEC$
-(^|\.)NET$
 (^|\.)NETBANK$
 (^|\.)NETFLIX$
 (^|\.)NETWORK$
@@ -921,7 +917,6 @@
 (^|\.)OPEN$
 (^|\.)ORACLE$
 (^|\.)ORANGE$
-(^|\.)ORG$
 (^|\.)ORGANIC$
 (^|\.)ORIGINS$
 (^|\.)OSAKA$
@@ -1271,13 +1266,11 @@
 (^|\.)UBS$
 (^|\.)UCONNECT$
 (^|\.)UG$
-(^|\.)UK$
 (^|\.)UNICOM$
 (^|\.)UNIVERSITY$
 (^|\.)UNO$
 (^|\.)UOL$
 (^|\.)UPS$
-(^|\.)US$
 (^|\.)UY$
 (^|\.)UZ$
 (^|\.)VA$
@@ -1533,3 +1526,4 @@
 (^|\.)ZONE$
 (^|\.)ZUERICH$
 (^|\.)ZW$
+
